@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... allot of things
 - 💞️ I’m looking to collaborate on ... python, spark, databricks, godot
 - 📫 How to reach me ... brunoalmgomes@gmail.com, bruno.gomes@ingeniouslion.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
